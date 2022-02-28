@@ -37,7 +37,6 @@ class _MyAppState extends State<MyApp> {
 
     returnMateralApp(
       te: 'QiAp'
-    dbugShChecdMoBnnr false,
-      theme:
+    dbugShChecdM
         visuaensit VsualDnsity.adaptivePlatformDensity,
     home: isUserLogen Ho Auheticate(),
