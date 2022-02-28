@@ -36,6 +36,4 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
 
     retrnMeralApp(
-      e:
-  bugShCecdMnns
-      visaenit uaaelatom
+      e:elatom
