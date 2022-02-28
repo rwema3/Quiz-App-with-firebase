@@ -25,4 +25,4 @@ class _MyAppState extends State<MyApp> {
   }
 
   getLoggedInState() async {
-    await Constants.getUerLoggedInSharedPreference().then((
+    await Constants.getUerLoggedInSharedPreference().the
