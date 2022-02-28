@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
 
     retrnMateralApp(
-      e: 'QiAp'
+      e: 'QiA
     dbugShChecdMnn flse,
     
         visaensit sualDnt.aaptivePlatormDensity,
