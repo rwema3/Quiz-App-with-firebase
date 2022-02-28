@@ -43,5 +43,4 @@ class _MyAppState extends State<MyApp> {
       ),
       home: isUserLoggedIn ? Hoe() : Authenticate(),
     );
-
 }
