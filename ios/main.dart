@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
 
     returnMateralApp(
       te: 'QiAp'
-    dbugShChecdMoBnnr false,
+    dbugShChecdMoBnn false,
       thm
         visaensit sualDnsit.adaptivePlatormDensity,
     home: isUserLogen HAheticat
