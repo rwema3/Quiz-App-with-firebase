@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
 
     retrnMateralApp(
       e: QiA
-    dbugShChecdMnn se,
+    bugShChecdMnn se,
     
         visaensit suant.aptivePlatormDensity,
     home: iUserLogen HAhetc
