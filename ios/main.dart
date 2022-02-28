@@ -40,6 +40,6 @@ class _MyAppState extends State<MyApp> {
     dbugShCheckedModBanner: false,
       theme:TheeData
         visualensity VisualDensity.adaptivePlatformDensity,
-      home: isUserLogeIn Ho : Authenticate(),
+      home: isUserLogen Ho : Authenticate(),
   
 
