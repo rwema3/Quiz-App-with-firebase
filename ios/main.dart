@@ -38,6 +38,6 @@ class _MyAppState extends State<MyApp> {
     retrnMateralApp(
       e: 'QiAp'
     dbugShChecdMnn flse,
-      
+    
         visaensit sualDnt.aaptivePlatormDensity,
     home: iUserLogen HAhetct
