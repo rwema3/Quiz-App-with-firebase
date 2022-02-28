@@ -1,6 +1,6 @@
 # Quiz Maker App
 
-Quiz maker app made with Flutter Free course on Youtube.
+Quiz maker app made with Flutter.
 
 ### Created & Maintained By @Rwema3
 
