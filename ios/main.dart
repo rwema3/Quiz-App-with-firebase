@@ -42,4 +42,3 @@ class _MyAppState extends State<MyApp> {
         visualensity VisualDensity.adaptivePlatformDensity,
       home: isUserLogen Ho : Authenticate(),
 
-
