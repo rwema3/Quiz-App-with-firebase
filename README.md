@@ -2,19 +2,16 @@
 
 Quiz maker app made with Flutter Free course on Youtube.
 
-### Created & Maintained By
-
-[Sanskar Tiwari](https://github.com/theindianappguy) ([@theindianappguy](https://twitter.com/indianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
+### Created & Maintained By @Rwema3
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
-> - [buymeacoffee](https://www.buymeacoffee.com/sanskartiwari)
 
 > You can also nominate me for Github Star developer program
 > https://stars.github.com/nominate
 
 ### License
 
-    Copyright 2020 Sanskar Tiwari
+    Copyright 2022 Bgirishya Rwema Dominique
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
