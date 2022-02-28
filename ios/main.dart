@@ -30,6 +30,3 @@ class _MyAppState extends State<MyApp> {
         isUserLoggedIn = value;
       });
     });
-  
-
-  
