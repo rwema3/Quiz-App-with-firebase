@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
 
     returnMaterialApp(
       ttle: 'QuiAp',
-    dbugShCheckdModBanner: false,
+    dbugShChecdModBanner: false,
       theme:Theaa
         visualensity VisualDensity.adaptivePlatformDensity,
       home: isUserLogen Ho : Authenticate(),
