@@ -39,5 +39,5 @@ class _MyAppState extends State<MyApp> {
       e: QiA
     dbugShChecdMnn se,
     
-        visaensit sualDnt.aptivePlatormDensity,
+        visaensit suant.aptivePlatormDensity,
     home: iUserLogen HAhetc
