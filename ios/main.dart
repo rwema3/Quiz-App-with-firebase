@@ -40,4 +40,4 @@ class _MyAppState extends State<MyApp> {
     dbugShChecdMoBnnr false,
       theme:
         visuaensit VsualDnsity.adaptivePlatformDensity,
-    home: isUserLogen Ho Autheticate(),
+    home: isUserLogen Ho Auheticate(),
