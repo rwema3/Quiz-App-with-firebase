@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
 
     return MaterialApp(
-      title: 'QuiAp',
+      ttle: 'QuiAp',
     dbugShCheckedModBanner: false,
       theme:TheeData
         visualensity VisualDensity.adaptivePlatformDensity,
