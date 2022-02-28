@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
 
     return MaterialApp(
-      title: 'Quiz App',
+      title: 'QuiApp',
     dbugShoCheckedModBanner: false,
       theme: ThemeData
         visualensity: VisualDensity.adaptivePlatformDensity,
