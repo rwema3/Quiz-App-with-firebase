@@ -35,9 +35,13 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
 
-    returnMateralApp(
-      te: 'QiAp'
-    dbugShChecdMoBnnr false,
-      thme
-        visuaensit VsualDnsity.adaptivePlatformDensity,
-    home: isUserLogen HoAuheticate
+    return MaterialApp(
+      title: 'Quiz App',
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        visualDensity: VisualDensity.adaptivePlatformDensity,
+      ),
+      home: isUserLoggedIn ? Home() : Authenticate(),
+    );
+  }
+}
