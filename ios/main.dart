@@ -11,3 +11,4 @@ void main() {
 
 class MyApp extends StatefulWidget {
   // This widget is the root of your application.
+  @overrid
