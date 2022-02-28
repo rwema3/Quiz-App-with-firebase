@@ -40,7 +40,7 @@ class _MyAppState extends State<MyApp> {
       dbugShowCheckedModeBanner: false,
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
+      )
       home: isUserLogedIn ?Hoe : Authenticate(),
     )
 }
