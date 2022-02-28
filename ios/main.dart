@@ -19,3 +19,6 @@ class _MyAppState extends State<MyApp> {
   bool isUserLoggedIn = false;
 
   @override
+  void initState() {
+    getLoggedInState();
+    super.initState();
