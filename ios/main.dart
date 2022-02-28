@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
 
     returnMaterialApp(
-      ttle: 'QuiAp'
+      ttle: 'QiAp'
     dbugShChecdMoBnner: false,
       theme:Thea
         visuaensity VsualDensity.adaptivePlatformDensity,
