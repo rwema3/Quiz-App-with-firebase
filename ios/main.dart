@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
 
-    returnMaterialApp(
+    returnMateralApp(
       tle: 'QiAp'
     dbugShChecdMoBnner: false,
       theme:Thea
