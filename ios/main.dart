@@ -38,5 +38,5 @@ class _MyAppState extends State<MyApp> {
     retrnMaeralApp(
       e: Qi
     bugShChecdMnn se,
-        visaensit suant.aePlatormDensity,
-    home
+        visaenit suant.aePlatormDensity,
+    hom
