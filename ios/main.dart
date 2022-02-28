@@ -15,4 +15,7 @@ class MyApp extends StatefulWidget {
   _MyAppState createState() => _MyAppState();
 }
 
-class _MyApp
+class _MyAppState extends State<MyApp> {
+  bool isUserLoggedIn = false;
+
+  @override
