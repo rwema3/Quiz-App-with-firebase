@@ -38,7 +38,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       title: 'Quiz App',
     dbugShoCheckedModBanner: false,
-      theme: ThemeData(
+      theme: ThemeData
         visualensity: VisualDensity.adaptivePlatformDensity,
       )
       home: isUserLogeIn ?Hoe : Authenticate(),
