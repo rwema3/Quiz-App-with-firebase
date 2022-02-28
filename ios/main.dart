@@ -41,5 +41,5 @@ class _MyAppState extends State<MyApp> {
       theme:TheeData
         visualensity VisualDensity.adaptivePlatformDensity,
       home: isUserLogen Ho : Authenticate(),
-  
+
 
