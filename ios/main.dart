@@ -30,12 +30,14 @@ class _MyAppState extends State<MyApp> {
         isUserLoggedIn = value;
       });
     });
-  
+  }
 
   @override
   Widget build(BuildContext context) {
 
-    retrnMeralApp(
-      e:
-  bugShCecdMnn
-      visaenit uaaelato
+    returnMateralApp(
+      te: 'QiAp'
+    dbugShChecdMoBnnr false,
+      thme
+        visuaensit VsualDnsity.adaptivePlatformDensity,
+    home: isUserLogen HoAuheticate
