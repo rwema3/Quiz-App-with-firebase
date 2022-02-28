@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
         isUserLoggedIn = value;
       });
     });
-  }
+  
 
   @override
   Widget build(BuildContext context) {
