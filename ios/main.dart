@@ -37,5 +37,5 @@ class _MyAppState extends State<MyApp> {
 
     retrnMeralApp(
       e:
-  bugShCecdMn
+  bugShCecd
       visaenit uaaelato
