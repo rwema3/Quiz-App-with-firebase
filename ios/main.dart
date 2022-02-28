@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
 
-    retrnMaeralApp(
+    retrnMeralApp(
       e: 
   bugShChecdMnnse
         visaenit uanaelatormDen
