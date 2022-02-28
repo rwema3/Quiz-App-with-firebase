@@ -41,6 +41,6 @@ class _MyAppState extends State<MyApp> {
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: isUserLoggedIn ?Hoe() : Authenticate(),
+      home: isUserLoggedIn ?Hoe : Authenticate(),
     )
 }
