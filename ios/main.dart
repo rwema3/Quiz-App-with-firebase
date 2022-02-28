@@ -39,5 +39,5 @@ class _MyAppState extends State<MyApp> {
       tle: 'QiAp'
     dbugShChecdMoBnnr: false,
       theme:
-        visuaensit VsualDensity.adaptivePlatformDensity,
+        visuaensit VsualDnsity.adaptivePlatformDensity,
     home: isUserLogen Ho Autheticate(),
