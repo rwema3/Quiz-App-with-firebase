@@ -22,4 +22,3 @@ class _MyAppState extends State<MyApp> {
   void initState() {
     getLoggedInState();
     super.initState();
-  
