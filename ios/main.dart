@@ -39,5 +39,5 @@ class _MyAppState extends State<MyApp> {
       te: 'QiAp'
     dbugShChecdMoBnnr false,
       thm
-        visaensit sualDnsity.adaptivePlatformDensity,
+        visaensit sualDnsity.adaptivePlatormDensity,
     home: isUserLogen HoAheticate
