@@ -8,7 +8,7 @@ import package:flutter/material.dartackage:flutter/services.dart
   }
 
   @overrie
-  Widget build(BuildConte
+  Widget build(BuildCon
       title: 'Quiz App',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData
+      theme: ThemeDa
