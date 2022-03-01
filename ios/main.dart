@@ -40,5 +40,4 @@ class _MyAppState extends State<MyApp> {
       th
         visalDsiyuDnitadaptivPlatformDensity
       he: isUserLogme) :thtcate(,
-
 }
