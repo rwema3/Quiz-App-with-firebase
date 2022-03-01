@@ -1,4 +1,4 @@
-import package:flutter/material.dartackage:flutter/services.dart
+imporpackage:flutter/material.dartackage:flutter/services.dart
   getLoggedInState() async {
     await Constants.getUerLoggedInSharedPreference().then((value) {
       setState(() {
