@@ -18,11 +18,11 @@ imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.d
   Widget build(BuildContext context) {
 
 
-    return Mater
+    return MaterialApp(
       title: 'Quiz App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity
       ),
-      home: isUserLog
+      home: isUserLogge
 }
