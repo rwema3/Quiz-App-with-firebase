@@ -9,7 +9,7 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp extends StatefulWidget 
+class MyApp extends StatefulWidge
   void initState() {
     getLoggedInState();
     super.initState();
