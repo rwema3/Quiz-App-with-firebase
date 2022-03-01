@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
     return MarialApp(
       title:'Quiz App',
     debugShowChkedModeBanner: false,
-      theme: T
+      theme: 
         visualDsiyuDnitadaptivePlatformDensity
       home: isUserLogI?ome) : thenticate(),
 
