@@ -9,7 +9,7 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp extends StatefulW
+class MyApp extends StatefulWidget 
   void initState() {
     getLoggedInState();
     super.initState();
