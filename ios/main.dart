@@ -25,5 +25,6 @@ imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.d
         visualDensity: VisualDensity.adaptivePlatformDensity
       ),
       home: isUserLoggedIn ? Home() : Authenticate(),
-    
+    );
+
 }
