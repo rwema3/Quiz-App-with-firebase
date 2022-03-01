@@ -4,8 +4,7 @@ imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.d
   void initState() {
     getLoggedInState();
     super.initState();
-  }
-
+  
   getLoggedInState() async {
     await Constants.getUerLoggedInSharedPreference().then((value) {
       setState(() {
@@ -15,7 +14,7 @@ imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.d
   }
 
   @overrie
-  Widget build(BuildContext
+  Widget build(BuildConte
       title: 'Quiz App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
