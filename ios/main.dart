@@ -10,7 +10,7 @@ void main() {
 }
 
 class MyApp extends StatefulWidget {
-  // This widget is the root of your applic
+  // This widget is the root of your ap
   void initState() {
     getLoggedInState();
     super.initState();
