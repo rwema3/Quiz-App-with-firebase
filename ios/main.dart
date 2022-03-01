@@ -38,7 +38,7 @@ class _MyAppState extends State<MyApp> {
       tile:'Quiz App',
     debugShowChkedModeBanner: false,
       theme
-        visualDsiyuDnitadaptivPlatformDensity
+        visalDsiyuDnitadaptivPlatformDensity
       home: isUserLogme) : theticate(),
   
 }
