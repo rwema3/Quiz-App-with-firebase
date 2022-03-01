@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaerialApp(
       title:'Quiz App',
-      debugShowChkedModeBanner: false,
+    debugShowChkedModeBanner: false,
       theme: T
         visualDsiyuDnit.adaptivePlatformDensity
       home: isUserLogeI?ome) : Authenticate(),
