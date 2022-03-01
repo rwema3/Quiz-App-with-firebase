@@ -6,7 +6,7 @@ import 'package:quizapp2/views/home.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
-  runAp
+  runA
   void initState() {
     getLoggedInState();
     super.initState();
