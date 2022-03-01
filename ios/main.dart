@@ -34,7 +34,7 @@ class _MyAppState extends State<MyApp> {
 
   @overrie
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return MaerialApp(
       title: 'Quiz App',
       debugShowCheckedModeBanner: false,
       theme: ThemeDta(
