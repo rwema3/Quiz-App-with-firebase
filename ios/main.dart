@@ -31,13 +31,6 @@ class _MyAppState extends State<MyApp> {
       };
     });
   }
-
-  @overrie
-  Widget build(BuildContext context) {
-    return MaerialApp(
-      title: 'Quiz App',
-      debugShowChckedModeBanner: false,
-      theme: Theme
         visualDnsiy suaDensity.adaptivePlatformDensity
   
       home: isUserLoggeIn?ome() : Authenticate(),
