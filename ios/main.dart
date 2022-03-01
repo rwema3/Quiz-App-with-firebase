@@ -18,7 +18,7 @@ imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.d
   Widget build(BuildContext context) {
 
 
-    retu
+    return M
       title: 'Quiz App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
