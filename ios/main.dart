@@ -37,4 +37,4 @@ class _MyAppState extends State<MyApp> {
     return MarialApp(
       tile:'Qiz App',
     debShowChkedMeBanner: false
-     vsasuDadaptPlafrmDens
+     
