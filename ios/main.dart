@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:quizapp2/helper/authenticate.dart';
 import 'package:quizapp2/helper/constants.dart';
-imppackage:quizapp2/views/home.dart
+impackage:quizapp2/views/home.dart
   void initState() {
     getLoggedInState();
     super.initState();
