@@ -11,4 +11,4 @@ import package:flutter/material.dartackage:flutter/services.dart
   Widget build(BuildConte
       title: 'Quiz App',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData
+      theme: ThemeData(
