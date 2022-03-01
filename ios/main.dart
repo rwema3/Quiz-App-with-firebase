@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
     return MarialApp(
       tile:'Quiz App',
     debugShowChkedModeBanner: false,
-      theme
+      the
         visalDsiyuDnitadaptivPlatformDensity
       he: isUserLogme) : thetcate(),
 
