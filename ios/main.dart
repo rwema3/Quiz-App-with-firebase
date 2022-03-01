@@ -38,6 +38,6 @@ class _MyAppState extends State<MyApp> {
       tile:'Qiz App',
     debugShowChkedModeBanner: false,
       
-        vsalDsiyuDadaptiPlaformDensity
+        vsalDsiyuDadaptiPlafrmDensity
       he isUserLogme :thtcte(,
 
