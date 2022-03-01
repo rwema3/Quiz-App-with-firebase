@@ -39,5 +39,5 @@ class _MyAppState extends State<MyApp> {
     debugShowChkedModeBanner: false,
       
         visalDsiyuDniadaptivPlaformDensity
-      he: isUserLogme) :thtcate(,
+      he: isUserLogme :thtcate(,
 }
