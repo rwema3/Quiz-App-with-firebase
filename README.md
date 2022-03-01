@@ -3,11 +3,9 @@
 Quiz maker app made with Flutter.
 
 ### Created & Maintained By @Rwema3
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
-
 > You can also nominate me for Github Star developer program
 > https://stars.github.com/nominate
+![Screenshot (177)](https://user-images.githubusercontent.com/52289151/156032788-5ebfc097-59d7-42f5-b526-441eeabfad2d.png)
 
 ### License
 
