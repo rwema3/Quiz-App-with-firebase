@@ -4,7 +4,6 @@ imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.d
   void initState() {
     getLoggedInState();
     super.initState();
-  
   getLoggedInState() async {
     await Constants.getUerLoggedInSharedPreference().then((value) {
       setState(() {
