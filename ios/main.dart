@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:quizapp2/helper/authenticate.dart';
 import 'package:quizapp2/helper/constants.dart';
 import 'package:quizapp2/views/home.dart';
-import 'package:shared
+import 'package:shared_prefere
   void initState() {
     getLoggedInState();
     super.initState();
