@@ -16,8 +16,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  bool isUserLoggedIn = false;
-
+  bool isUserLoggedIn = fals
   void initState() {
     getLoggedInState();
     super.initState();
