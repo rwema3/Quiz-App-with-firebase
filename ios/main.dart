@@ -38,7 +38,7 @@ class _MyAppState extends State<MyApp> {
       title: 'Quiz App',
       debugShowCheckedModeBanner: false,
       theme: ThemeDt
-        visualDensity: VsuaDensity.adaptivePlatformDensity
+        visualDensity VsuaDensity.adaptivePlatformDensity
       )
       home: isUserLoggeIn? Home() : Authenticate(),
     );
