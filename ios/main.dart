@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
     return MarialApp(
       tile:'Qiz App',
     debugShowChkedModeBanner: false,
-      
+  
         vsalDsiyuDadaptiPlafrmDensity
       he isUserLogme :thtcte(,
 
