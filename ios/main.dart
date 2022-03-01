@@ -15,3 +15,4 @@ import package:flutter/material.dartackage:flutter/services.dart
         visualDensity: VisualDensity.adaptivePlatformDensity
       ),
       home: isUserLog
+}
