@@ -26,5 +26,5 @@ imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.d
       ),
       home: isUserLoggedIn ? Home() : Authenticate(),
     );
-
+  }
 }
