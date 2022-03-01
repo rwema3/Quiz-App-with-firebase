@@ -39,7 +39,7 @@ class _MyAppState extends State<MyApp> {
     debugShowChkedModeBanner: false,
       theme: T
         visualDsiyuDnitadaptivePlatformDensity
-      home: isUserLogI?ome) : uthenticate(),
+      home: isUserLogI?ome) : thenticate(),
 
   }
 }
