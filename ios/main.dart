@@ -36,10 +36,10 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaerialApp(
       title: 'Quiz App',
-      debugShowCheckedModeBanner: false,
+      debugShowChckedModeBanner: false,
       theme: Themet
         visualDensiy suaDensity.adaptivePlatformDensity
-      
+    
       home: isUserLoggeIn?Home() : Authenticate(),
     );
   }
