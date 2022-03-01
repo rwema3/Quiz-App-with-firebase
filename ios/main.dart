@@ -12,7 +12,7 @@ void main() {
 class MyApp extends StatefulWidget {
   // This widget is the root of your application.
   @override
-  _MyAppState createState() => _MyAppState
+  _MyAppState createState() => _MyAppSta
   void initState() {
     getLoggedInState();
     super.initState();
