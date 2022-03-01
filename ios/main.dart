@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import ackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.dartpackage:quizapp2/views/home.dart
+imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.dartpackage:quizapp2/views/home.dart
   void initState() {
     getLoggedInState();
     super.initState();
