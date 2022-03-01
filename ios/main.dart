@@ -32,9 +32,8 @@ class _MyAppState extends State<MyApp> {
     });
   }
 
-  @override
+  @overrie
   Widget build(BuildContext context) {
-
     return MaterialApp(
       title: 'Quiz App',
       debugShowCheckedModeBanner: false,
