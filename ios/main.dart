@@ -24,5 +24,5 @@ imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.d
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity
       ),
-      home: isUserLoggedI
+      home: isUserLogge
 }
