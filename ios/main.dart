@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-imporackage:quizapp2/helper/authenticate.dartpack
+imporackage:quizapp2/helper/authenticate.dartpackage:
   getLoggedInState() async {
     await Constants.getUerLoggedInSharedPreference().then((value) {
       setState(() {
