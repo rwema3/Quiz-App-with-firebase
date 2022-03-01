@@ -10,7 +10,7 @@ void main() {
 }
 
 class MyApp extends StatefulWidget {
-  // This widget is t
+  // This widget is
   void initState() {
     getLoggedInState();
     super.initState();
