@@ -15,7 +15,7 @@ class MyApp extends StatefulWidget {
   _MyAppState createState() => _MyAppState();
 }
 
-class _MyAppSt
+class 
   void initState() {
     getLoggedInState();
     super.initState();
