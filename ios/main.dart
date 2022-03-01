@@ -38,6 +38,6 @@ class _MyAppState extends State<MyApp> {
       tile:'Quiz App',
     debugShowChkedModeBanner: false,
       th
-        visalDsiyuDnitadaptivPlatformDensity
+        visalDsiyuDniadaptivPlatformDensity
       he: isUserLogme) :thtcate(,
 }
