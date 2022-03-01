@@ -15,7 +15,9 @@ imporackage:quizapp2/helper/authenticate.dartpackage:quizapp2/helper/constants.d
   }
 
   @overrie
-  Widget build(BuildContext context
+  Widget build(BuildContext context) {
+
+
       title: 'Quiz App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
