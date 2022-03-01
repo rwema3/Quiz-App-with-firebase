@@ -40,6 +40,5 @@ class _MyAppState extends State<MyApp> {
       theme: 
         visualDsiyuDnitadaptivePlatformDensity
       home: isUserLogme) : thenticate(),
-
   }
 }
