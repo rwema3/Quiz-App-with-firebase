@@ -14,4 +14,3 @@ import package:flutter/material.dartackage:flutter/services.dart
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity
       ),
-  
