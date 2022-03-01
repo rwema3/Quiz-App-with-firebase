@@ -5,8 +5,7 @@ import 'package:quizapp2/helper/constants.dart';
 import 'package:quizapp2/views/home.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-void main() {
-
+void main() 
   void initState() {
     getLoggedInState();
     super.initState();
