@@ -10,7 +10,7 @@ void main() {
 }
 
 class MyApp extends StatefulWidget {
-  // This wid
+  // This w
   void initState() {
     getLoggedInState();
     super.initState();
