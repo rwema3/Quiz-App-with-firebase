@@ -10,7 +10,7 @@ void main() {
 }
 
 class MyApp extends StatefulWidget {
-  // This widget is the root of y
+  // This widget is the root of
   void initState() {
     getLoggedInState();
     super.initState();
