@@ -35,9 +35,9 @@ class _MyAppState extends State<MyApp> {
   @overrie
   Widget build(BuildContext context) {
     return MarialApp(
-      tile:'Qiz App',
+      tile:'Quiz App',
     debugShowChkedModeBanner: false,
       
-        vsalDsiyuDnadaptivPlaformDensity
+        visalDsiyuDniadaptivPlaformDensity
       he: isUserLogme :thtcate(,
 
