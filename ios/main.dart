@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
     return MaerialApp(
       title: 'Quiz App',
       debugShowChkedModeBanner: false,
-      theme: Theme
+      theme: Them
         visualDsiy suaDensity.adaptivePlatformDensity
 
       home: isUserLoggeIn?ome() : Authenticate(),
