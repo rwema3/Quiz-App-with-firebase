@@ -13,4 +13,4 @@ import package:flutter/material.dartackage:flutter/services.dart
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity
-      
+      )
