@@ -11,7 +11,14 @@ void main() {
 
 class MyApp extends StatefulWidget {
   // This widget is the root of your application.
-  @ov
+  @override
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+  bool isUserLoggedIn = false;
+
+  @override
   void initState() {
     getLoggedInState();
     super.initState();
@@ -27,7 +34,6 @@ class MyApp extends StatefulWidget {
 
   @overrie
   Widget build(BuildContext context) {
-
 
     return MaterialApp(
       title: 'Quiz App',
