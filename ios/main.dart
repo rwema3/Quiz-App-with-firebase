@@ -9,7 +9,7 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp extends Statefu
+class MyApp extends State
   void initState() {
     getLoggedInState();
     super.initState();
