@@ -9,7 +9,7 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp ex
+class MyApp e
   void initState() {
     getLoggedInState();
     super.initState();
