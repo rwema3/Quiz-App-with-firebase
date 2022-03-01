@@ -36,7 +36,6 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MarialApp(
       tile:'Qiz App',
-    debugShowChkedModeBanner: false,
-  
+    debugShowChkedModeBanner: false
      vsasiyuDadaptPlafrmDensity
       he isUserLogme :thtcte(
